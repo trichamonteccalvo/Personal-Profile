@@ -372,7 +372,7 @@ const projects = [
         title: "Travel landing page",
         description: "An intelligent data processing system that uses machine learning to provide actionable business insights and predictive analytics.",
         technologies: ["Python", "TensorFlow", "React", "AWS"],
-        githubUrl: "https://github.com/trichamonteccalvo/TravelFinal",
+        githubUrl: "https://travel-final-nine.vercel.app/",
         demoUrl: "#",
         icon: "fa-robot"
     },
@@ -466,4 +466,5 @@ function addExternalLinkHandlers() {
             }, 2000);
         });
     });
+
 }
